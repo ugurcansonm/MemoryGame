@@ -13,12 +13,10 @@ A lightweight, interactive, and grid-based 2D Memory (Card Matching) game built 
 * **Robust Session Management:** Prompts the user with a customized choice box at game completion to either gracefully exit or reset the environment instantly for a new run.
 
 ---
+<img width="649" height="848" alt="MemoryGame" src="https://github.com/user-attachments/assets/1e2ba3ca-1116-4bd4-a9ea-6f79e2def925" />
 
 ## 🛠️ Project Structure
-
 To maintain a clean and professional architecture, it is recommended to organize your local directory as follows:
-
-<img width="649" height="848" alt="MemoryGame" src="https://github.com/user-attachments/assets/1e2ba3ca-1116-4bd4-a9ea-6f79e2def925" />
 
 ```text
 Memory-Game/
