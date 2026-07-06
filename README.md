@@ -29,3 +29,4 @@ Memory-Game/
 │   └── MemoryGame.py                  # Primary Python implementation source code
 ├── .gitignore
 └── README.md                    # Project landing page documentation
+<img width="649" height="848" alt="MemoryGame" src="https://github.com/user-attachments/assets/1e2ba3ca-1116-4bd4-a9ea-6f79e2def925" />
